@@ -1,1 +1,3 @@
-# first-day-repository
+# My First Repository
+
+this is my first repository
